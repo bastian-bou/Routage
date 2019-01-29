@@ -1,0 +1,53 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TRandomizedSFRSHeuristic",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TRandomizedSFRSHeuristic",
+            "projectName": "DII.VRP.TP3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TSFRSHeuristic",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TSFRSHeuristic",
+            "projectName": "DII.VRP.TP3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TNaiveNNHeuristic",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TNaiveNNHeuristic",
+            "projectName": "DII.VRP.TP3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TNNvsNAIVE",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TNNvsNAIVE",
+            "projectName": "DII.VRP.TP3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TCWAB",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TCWAB",
+            "projectName": "DII.VRP.TP3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TGRASP",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TGRASP",
+            "projectName": "DII.VRP.TP3"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TNNHeuristics",
+            "request": "launch",
+            "mainClass": "dii.vrp.test.TNNHeuristics",
+            "projectName": "DII.VRP.TP3"
+        }
+    ]
+}
